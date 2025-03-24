@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: uasw3ch2b-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/uasw3ch2b-java-springboot
